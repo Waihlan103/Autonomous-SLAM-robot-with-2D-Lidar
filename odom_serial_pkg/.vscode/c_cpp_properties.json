@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/waihlan/ROS2/workspace/install/tutorial_interfaces/include/**",
+        "/home/waihlan/ROS2/microros_ws/install/micro_ros_agent/include/**",
+        "/home/waihlan/ROS2/microros_ws/install/micro_ros_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/waihlan/ROS2/workspace/src/action_tutorials/include/**",
+        "/home/waihlan/ROS2/workspace/src/cpp_parameters/include/**",
+        "/home/waihlan/ROS2/workspace/src/dshape/dshape_description/include/**",
+        "/home/waihlan/ROS2/workspace/src/dshape/dshape_gazebo/include/**",
+        "/home/waihlan/ROS2/workspace/src/learning_tf2_cpp/include/**",
+        "/home/waihlan/ROS2/workspace/src/odom_serial_pkg/include/**",
+        "/home/waihlan/ROS2/workspace/src/odometry_publisher/include/**",
+        "/home/waihlan/ROS2/workspace/src/rom2109_simulation/rom2109_autonomy/include/**",
+        "/home/waihlan/ROS2/workspace/src/rom_robot/include/**",
+        "/home/waihlan/ROS2/workspace/src/service_test/include/**",
+        "/home/waihlan/ROS2/workspace/src/test/include/**",
+        "/home/waihlan/ROS2/workspace/src/tutorial_interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
